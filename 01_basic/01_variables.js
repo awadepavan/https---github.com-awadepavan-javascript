@@ -4,7 +4,7 @@ let accountEmail = "pavan@gmail.com";
 
 var accountPassword = "12345";
 /*
-  perfer not to use var because issue 
+  prefer not to use var because issue 
   in block Scope({}) And Function Scope
 */
 
